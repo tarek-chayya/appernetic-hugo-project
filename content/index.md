@@ -4,9 +4,10 @@ title: index
 type: index
 ---
 
-# gallery
 
-Fancy box is used to display image gallery with this shortcode:
+# gallery
+
+Fancy boxes is used to display image gallery with this shortcode:
 {{< highlight html >}}
 {{</* gallery image="space1.jpg" */>}}
 {{</* gallery image="space2.jpg" addclass="hidden" */>}}
