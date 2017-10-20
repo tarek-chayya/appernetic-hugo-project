@@ -11,7 +11,7 @@ pygmentsUseClasses = true
 	copyright = "Released under my prefered license"
 
   #demo website
-  demo_site = "http://demo.example.com"
+  demo_site = "http://tarek-chayya.github.io/"
 
 	# Repository
 	provider = "GitHub"
